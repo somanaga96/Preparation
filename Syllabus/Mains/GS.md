@@ -15,7 +15,7 @@
 - Distribution of key natural resources across the world (including South Asia and the Indian sub-continent); factors responsible for the location of primary, secondary, and tertiary sector industries in various parts of the world (including India).
 - Important Geophysical phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone etc., geographical features and their location-changes in critical geographical features (including water-bodies and ice-caps) and in flora and fauna and the effects of such changes.
 
-### UPSC Syllabus for Mains GS Paper 2
+### UPSC [[GS2]]
 
 **Governance, Constitution, Polity, Social Justice and International relations.**
 
