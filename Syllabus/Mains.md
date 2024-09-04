@@ -8,3 +8,4 @@
 | Paper-V   | General Studies – IV (Ethics, Integrity & Aptitude)                                                    | 250       |
 | Paper-VI  | Optional Subject – Paper I                                                                             | 250       |
 | Paper-VII | Optional Subject – Paper II                                                                            | 250       |
+refer for [[Prelims]]
