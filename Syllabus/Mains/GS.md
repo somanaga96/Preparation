@@ -1,4 +1,4 @@
-### UPSC GS 1 Syllabus
+### UPSC [[GS1]]
 
 **Indian Heritage and Culture, History and Geography of the World and Society.**
 
