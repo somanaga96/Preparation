@@ -1,2 +1,2 @@
-[[Mains_Syllabus]]
 [[Prelims_Syllabus]]
+[[Mains_Syllabus]]
