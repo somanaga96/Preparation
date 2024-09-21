@@ -14,5 +14,5 @@
 - Logical reasoning and analytical ability
 - Decision-making and problem solving
 - General mental ability
-- [[Basic numeracy]] (numbers and their relations, orders of magnitude, etc.) – Class X level)
+- [[Basic Numeracy]] (numbers and their relations, orders of magnitude, etc.) – Class X level)
 - Data interpretation (charts, graphs, tables, data sufficiency etc. – Class X level)
